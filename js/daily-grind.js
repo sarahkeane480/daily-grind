@@ -41,7 +41,7 @@ switch (today) {
             pic: "images/bubble-tea.jpg",
             color: "pink",
             alt: "A picture of a cup bubble tea",
-            day: "Wednesday",
+            day: "Monday",
             desc: `Bubble Tea Lovers we love it!!`
         };
         break;
